@@ -1,6 +1,5 @@
 # Ignore datasets and virtual environments
 venv/
-*.csv
 *.zip
 *.pkl
 *.dll
