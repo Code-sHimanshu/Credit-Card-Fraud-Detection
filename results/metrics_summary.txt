@@ -1,0 +1,16 @@
+=== Logistic Regression Evaluation ===
+
+              precision    recall  f1-score   support
+
+           0     0.9998    0.9802    0.9899     56864
+           1     0.0733    0.9082    0.1357        98
+
+    accuracy                         0.9801     56962
+   macro avg     0.5366    0.9442    0.5628     56962
+weighted avg     0.9982    0.9801    0.9885     56962
+
+ROC-AUC Score: 0.9732
+
+Confusion Matrix:
+[[55739  1125]
+ [    9    89]]
