@@ -1,0 +1,9 @@
+# Ignore datasets and virtual environments
+data/
+venv/
+*.csv
+*.zip
+*.pkl
+*.dll
+_pycache__/
+*.pyc
